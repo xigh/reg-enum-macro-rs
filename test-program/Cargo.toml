@@ -1,0 +1,7 @@
+[package]
+name = "reg-enum-test-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reg-enum-macro-rs = {path = ".."}
